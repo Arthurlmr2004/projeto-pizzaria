@@ -42,7 +42,7 @@ header {
 .menu-closer {
     width: 32px;
     height: 32px;
-    display: none;
+    cursor: pointer;
     font-size: 30px;
 }
 
