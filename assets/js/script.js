@@ -175,5 +175,5 @@ function updateCart() {
     c('.menu-closer').addEventListener('click', () => {
         c('aside').classList.remove('show');
     });
-    
+
 }
